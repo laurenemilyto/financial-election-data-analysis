@@ -1,7 +1,7 @@
 # python_challenge
 
 ## Description
-Included in this challenge are two Python scripts. Each script analyzes a different set of data and exports results to a text file. Below is a summary for each script:  
+Included in this challenge are two Python scripts. Each script analyzes a different set of data and exports results to a text file. Below is a brief description of calculations each script provides:  
 
   1) PyBank analyzes financial records, calculates the information below and exports results to a txt file: 
 
