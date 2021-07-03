@@ -15,6 +15,8 @@ Included in this challenge are two Python scripts. Each script analyzes a differ
 
       * The greatest decrease in losses (date and amount) over the entire period
 
+
+
   2) PyPoll analyzes election data, calculates the information below and exports results to a txt file: 
 
       * The total number of votes cast
