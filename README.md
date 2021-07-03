@@ -1,9 +1,9 @@
 # python_challenge
 
 ## Description
-Included in this challenge are two Python scripts. Each script analyzes a different set of data and exports results to a text file. Below is a brief description of calculations each script provides:  
+Included in this challenge are two Python scripts. Each script analyzes a different set of data and exports results to a text file. Below is a brief description of each script:  
 
-  1) PyBank analyzes financial records, calculates the information below and exports results to a txt file: 
+  1) PyBank analyzes financial records, calculates and exports the results below to a txt file: 
 
       * The total number of months included in the dataset
 
@@ -16,7 +16,7 @@ Included in this challenge are two Python scripts. Each script analyzes a differ
       * The greatest decrease in losses (date and amount) over the entire period
 
 
-  2) PyPoll analyzes election data, calculates the information below and exports results to a txt file: 
+  2) PyPoll analyzes election data, calculates and exports the results below to a txt file: 
 
       * The total number of votes cast
 
