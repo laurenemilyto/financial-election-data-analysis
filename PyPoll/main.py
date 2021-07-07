@@ -3,7 +3,7 @@ import os
 import csv
 
 #Import pypoll.csv file
-pypoll_csv = os.path.join("Documents","python_challenge","python_challenge","PyPoll", "Resources", "election_data1.csv")
+pypoll_csv = os.path.join("PyPoll", "Resources", "election_data1.csv")
 
 
 # Initialize null lists
