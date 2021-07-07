@@ -4,7 +4,7 @@ import os
 import csv
 
 # Import pybank.csv file
-pybank_csv = os.path.join("Documents","python_challenge","python_challenge","PyBank", "Resources", "budget_data1.csv")
+pybank_csv = os.path.join("PyBank", "Resources", "budget_data1.csv")
 
 # Initialize null lists
 dates = []
