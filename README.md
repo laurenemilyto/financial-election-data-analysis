@@ -1,7 +1,7 @@
 # python_challenge
 
 ## Description
-Used python to analyze financial records and election data respectively. Each script exports results to a text file. Below is a brief description of my analysis:  
+Used python to analyze financial records and election data respectively. Each script exports results to a text file. Below is a brief description of analysis:  
 
   1) PyBank analyzes financial records, calculates and exports the results below to a txt file: 
 
