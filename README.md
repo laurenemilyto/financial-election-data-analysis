@@ -1,9 +1,11 @@
-# python_challenge
+# financial-election-analysis
 
-## Description
-Used python to analyze financial records and election data respectively. Each script exports results to a text file. Below is a brief description of analysis:  
+#### About the project
+In this project, Python was used to analyze financial records and election data respectively. Python scripts export results to a text file. Below is a brief description of my analysis
 
-  1) PyBank analyzes financial records, calculates and exports the results below to a txt file: 
+#### How it works
+
+  1) PyBank analyzes financial records and exports the results to a txt file. Data analyzed includes:
 
       * The total number of months included in the dataset
 
@@ -16,7 +18,7 @@ Used python to analyze financial records and election data respectively. Each sc
       * The greatest decrease in losses (date and amount) over the entire period
 
 
-  2) PyPoll analyzes election data, calculates and exports the results below to a txt file: 
+  2) PyPoll analyzes election data and exports the results to a txt file. Data analyzed includes:
 
       * The total number of votes cast
 
@@ -28,3 +30,5 @@ Used python to analyze financial records and election data respectively. Each sc
 
       * The winner of the election based on popular vote.
 
+#### Contact
+Lauren To: [laurenemilyto@gmail.com](laurenemilyto@gmail.com)
