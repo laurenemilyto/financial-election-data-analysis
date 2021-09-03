@@ -17,8 +17,6 @@ In this project, Python was used to analyze financial records and election data 
 
       * The greatest decrease in losses (date and amount) over the entire period
 
-![image](https://user-images.githubusercontent.com/75763314/132065212-a2805e3e-d25b-481a-837f-6576254ccfcc.png)
-
   2) PyPoll analyzes election data and exports the results to a txt file. Data analyzed includes:
 
       * The total number of votes cast
@@ -31,12 +29,14 @@ In this project, Python was used to analyze financial records and election data 
 
       * The winner of the election based on popular vote.
 
-[image](https://user-images.githubusercontent.com/75763314/132065823-3e9f7622-c71f-489d-afee-e6dccd838c2b.png)
+#### Example python script
+
+![image](https://user-images.githubusercontent.com/75763314/132065212-a2805e3e-d25b-481a-837f-6576254ccfcc.png)
 
 #### Dataset
 [budget_data.csv](https://github.com/laurenemilyto/python_challenge/blob/main/PyBank/Resources/budget_data1.csv) 
 
-[election_data.csv] (https://github.com/laurenemilyto/python_challenge/tree/main/PyPoll/Resources) 
+[election_data.csv](https://github.com/laurenemilyto/python_challenge/tree/main/PyPoll/Resources) 
 
 #### Contact
 Lauren To: [laurenemilyto@gmail.com](laurenemilyto@gmail.com)
