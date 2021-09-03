@@ -17,7 +17,6 @@ In this project, Python was used to analyze financial records and election data 
 
       * Greatest decrease in losses (date and amount) over the entire period
       
-  #### Preview 
   ![image](https://user-images.githubusercontent.com/75763314/132066052-096bca23-4020-4c13-85bd-3d77982cd36f.png)
 
   2) PyPoll analyzes election data and exports the results to a txt file. Data analyzed includes:
@@ -32,10 +31,9 @@ In this project, Python was used to analyze financial records and election data 
 
       * Election winner based on popular vote.
 
-#### Preview
 ![image](https://user-images.githubusercontent.com/75763314/132066141-16f78a16-6861-4c4f-b3c5-4982824edd26.png)
 
-## Example Python Script
+## Preview
 
 ![image](https://user-images.githubusercontent.com/75763314/132065212-a2805e3e-d25b-481a-837f-6576254ccfcc.png)
 
