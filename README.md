@@ -16,6 +16,8 @@ In this project, Python was used to analyze financial records and election data 
       * Greatest increase in profits (date and amount) over the entire period
 
       * Greatest decrease in losses (date and amount) over the entire period
+
+#### Text Results
       
   ![image](https://user-images.githubusercontent.com/75763314/132066052-096bca23-4020-4c13-85bd-3d77982cd36f.png)
 
@@ -30,6 +32,8 @@ In this project, Python was used to analyze financial records and election data 
       * Total number of votes each candidate won
 
       * Election winner based on popular vote.
+      
+#### Text Results
 
 ![image](https://user-images.githubusercontent.com/75763314/132066141-16f78a16-6861-4c4f-b3c5-4982824edd26.png)
 
