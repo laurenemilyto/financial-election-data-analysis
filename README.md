@@ -1,5 +1,5 @@
 # financial-election-data-analysis
-![image]https://img.shields.io/github/languages/count/laurenemilyto/financial-election-data-analysis
+![GitHub language count](https://img.shields.io/github/languages/count/laurenemilyto/financial-election-data-analysis?style=flat-square)
 
 ## About The Project
 In this project, Python was used to analyze financial records and election data respectively. Results were then exported to a text file. 
