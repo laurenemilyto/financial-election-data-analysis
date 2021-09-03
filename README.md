@@ -1,7 +1,7 @@
 # financial-election-data-analysis
 
 ## About the project
-In this project, Python was used to analyze financial records and election data respectively. Respective results were then exported to a text file. 
+In this project, Python was used to analyze financial records and election data respectively. Results were then exported to a text file. 
 
 ## Description
 
