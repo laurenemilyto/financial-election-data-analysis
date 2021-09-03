@@ -1,6 +1,6 @@
 # financial-election-data-analysis
 
-## About the project
+## About The Project
 In this project, Python was used to analyze financial records and election data respectively. Results were then exported to a text file. 
 
 ## Description
@@ -33,11 +33,11 @@ In this project, Python was used to analyze financial records and election data 
 
 ![image](https://user-images.githubusercontent.com/75763314/132066141-16f78a16-6861-4c4f-b3c5-4982824edd26.png)
 
-## Example python script
+## Example Python Script
 
 ![image](https://user-images.githubusercontent.com/75763314/132065212-a2805e3e-d25b-481a-837f-6576254ccfcc.png)
 
-## Dataset
+## Source Data
 [budget_data.csv](https://github.com/laurenemilyto/python_challenge/blob/main/PyBank/Resources/budget_data1.csv) 
 
 [election_data.csv](https://github.com/laurenemilyto/python_challenge/tree/main/PyPoll/Resources) 
